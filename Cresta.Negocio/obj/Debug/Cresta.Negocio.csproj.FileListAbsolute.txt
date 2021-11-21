@@ -1,0 +1,11 @@
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\bin\Debug\Cresta.Negocio.dll
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\bin\Debug\Cresta.Negocio.pdb
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\bin\Debug\Cresta.Datos.dll
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\bin\Debug\Cresta.Entidades.dll
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\bin\Debug\Cresta.Datos.pdb
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\bin\Debug\Cresta.Entidades.pdb
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\obj\Debug\Cresta.Negocio.csproj.AssemblyReference.cache
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\obj\Debug\Cresta.Negocio.csproj.CoreCompileInputs.cache
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\obj\Debug\Cresta.Negocio.csproj.CopyComplete
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\obj\Debug\Cresta.Negocio.dll
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Negocio\obj\Debug\Cresta.Negocio.pdb

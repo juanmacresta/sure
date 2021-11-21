@@ -1,0 +1,6 @@
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Entidades\bin\Debug\Cresta.Entidades.dll
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Entidades\bin\Debug\Cresta.Entidades.pdb
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Entidades\obj\Debug\Cresta.Entidades.csproj.AssemblyReference.cache
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Entidades\obj\Debug\Cresta.Entidades.csproj.CoreCompileInputs.cache
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Entidades\obj\Debug\Cresta.Entidades.dll
+d:\Datos User\Escritorio\CrestaJuan\Cresta\Cresta.Entidades\obj\Debug\Cresta.Entidades.pdb
